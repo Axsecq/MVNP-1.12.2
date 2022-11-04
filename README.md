@@ -1,8 +1,11 @@
-# Multiverse-NetherPortals
-This plugin separates nether and end portals in your Multiverse-Core worlds.
+# NetherPortals
+This is a plugin that spearates nether and end portals for all of your Multiverse worlds.
 
-## Binaries
-To download the latest version, head to the releases tab and download the latest release.
+## Downloads
+To download the plugin, head to the Releases tab and download the latest stable release.
 
-## Features Broken
-Currently there are only 2 features broken: Debug and Version display.
+## General Information
+This is a modification of Multiverse-NetherPortals which adds native 1.12.2 version support.
+
+## Installation & Configuration
+To install the plugin, place it into your plugins directory. Then, you can configure the plugin in the `config.yml` file.
