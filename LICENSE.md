@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2022, Multiverse Team,
+Copyright (c) 2022, The Multiverse Team
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
