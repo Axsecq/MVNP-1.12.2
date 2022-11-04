@@ -7,5 +7,8 @@ To download the plugin, head to the Releases tab and download the latest stable 
 ## General Information
 This is a modification of Multiverse-NetherPortals which adds native 1.12.2 version support.
 
+## Features Broken
+Currently only 2 features of the plugin are broken: Version Display and Debug Mode.
+
 ## Installation & Configuration
 To install the plugin, place it into your plugins directory. Then, you can configure the plugin in the `config.yml` file.
